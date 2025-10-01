@@ -1,0 +1,7 @@
+C:\Users\cedri\source\repos\HW3IM\HW3IM\bin\Debug\HW3IM.exe.config
+C:\Users\cedri\source\repos\HW3IM\HW3IM\bin\Debug\HW3IM.exe
+C:\Users\cedri\source\repos\HW3IM\HW3IM\bin\Debug\HW3IM.pdb
+C:\Users\cedri\source\repos\HW3IM\HW3IM\obj\Debug\HW3IM.csproj.AssemblyReference.cache
+C:\Users\cedri\source\repos\HW3IM\HW3IM\obj\Debug\HW3IM.csproj.CoreCompileInputs.cache
+C:\Users\cedri\source\repos\HW3IM\HW3IM\obj\Debug\HW3IM.exe
+C:\Users\cedri\source\repos\HW3IM\HW3IM\obj\Debug\HW3IM.pdb
